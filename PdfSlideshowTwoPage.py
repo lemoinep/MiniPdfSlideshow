@@ -1,3 +1,5 @@
+# Author(s): Dr. Patrick Lemoine
+
 import fitz  # PyMuPDF
 import tkinter as tk
 from PIL import Image, ImageTk
